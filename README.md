@@ -16,6 +16,7 @@
 ## The practices:
 
 - keep reading, keep learning, keep practing
+- be productive
 - be nice
 - be love
 <!---
