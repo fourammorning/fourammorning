@@ -19,7 +19,7 @@
 ## The practices:
 
 - keep reading, keep learning, keep practing
-- be productive
+- stay hungry, stay foolish
 - be nice
 - be love
 <!---
