@@ -12,6 +12,9 @@
 - do one thing, do it well
 - be accurate
 - test guarded
+- encapsulation
+- trust only the fact
+- architecture and art
 
 ## The practices:
 
